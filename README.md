@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AMShafiee.
-- 👀 I’m interested in codin especially with Python.
+- 👀 I’m interested in coding especially with Python.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Artificial Intelligence Projects.
+- 💞️ I’m looking to collaborate on bigger Projects, learning more, ...
 - 📫 You can reach me through my email: AMShafiee@gmail.com
 
 <!---
